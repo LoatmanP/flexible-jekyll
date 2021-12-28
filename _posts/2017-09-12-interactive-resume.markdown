@@ -112,5 +112,5 @@ fig.add_annotation(ax=0, ay=-75,
 ```
 ## Publish it to your website using [Plotly Chart Studio](https://chart-studio.plotly.com/)
 
-![signup]({{site.baseurl}}/assets/img/step_1_sign_up.png)
+![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
 
