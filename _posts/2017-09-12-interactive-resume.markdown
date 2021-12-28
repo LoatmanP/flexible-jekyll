@@ -16,7 +16,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 ```
 
-### Build the Interacticve Resume
+## Build the Interacticve Resume
 
 ```python
 present = datetime.today().strftime('%Y-%m-%d') #Use if this is your current job
@@ -110,3 +110,4 @@ fig.add_annotation(ax=0, ay=-75,
  
  fig.show() #check out your interactive reusme!
 ```
+## Keep it Interactive and Publish it to your website
