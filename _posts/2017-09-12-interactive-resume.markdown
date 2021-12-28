@@ -110,4 +110,4 @@ fig.add_annotation(ax=0, ay=-75,
  
  fig.show() #check out your interactive reusme!
 ```
-## Keep it Interactive and Publish it to your website
+## Keep it Interactive and Publish it to your website using [Plotly Chart Studio](https://chart-studio.plotly.com/)
