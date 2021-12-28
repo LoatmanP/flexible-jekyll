@@ -20,10 +20,10 @@ social-linkedin: philloatman
 social-email: loatmanp@gmail.com
 
 # Disqus
-discus-identifier: mr.brown # add your discus identifier
+discus-identifier: MR. BROWN # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: G-PWVCWHXKL0 # Google Analytics
 
 # Build Settings
 markdown: kramdown
