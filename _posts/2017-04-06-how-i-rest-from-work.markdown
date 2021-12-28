@@ -7,7 +7,7 @@ img: discountrate.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Delay Discounting, Behavioral Economics, Intertemporal Choice, Economic Patience]
 ---
-# Delay Discounting Rate Estimator for Time Preferences
+
 
 Intertemporal choice behavior has been shown to be associated with several indicators of health and wealth. Individuals who are less patient (i.e., choosing rewards that are of lesser value but available sooner over rewards of more value but are available later) tend to have worse health and wealth outcomes compared to their more patient counterparts.
 
