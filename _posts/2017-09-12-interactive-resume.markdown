@@ -16,7 +16,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 ```
 
-### Build the interacticve Resume
+### Build the Interacticve Resume
 
 ```python
 present = datetime.today().strftime('%Y-%m-%d') #Use if this is your current job
