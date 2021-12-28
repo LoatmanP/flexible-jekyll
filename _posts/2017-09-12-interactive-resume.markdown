@@ -16,13 +16,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 ```
 
-### Initialize the parameters
-
-<span style="color:black"><b>discountRate</b> = The estimated daily discount rate of the decision-maker </span>
-
-<span style="color:black"><b>rho</b> = determinism parameter (all other variance other than discounting) </span>
- 
-
+### Build the interacticve Resume
 
 ```python
 present = datetime.today().strftime('%Y-%m-%d') #Use if this is your current job
