@@ -19,8 +19,6 @@ Please select the model you wish to evaluate your intertemporal preferences, inp
 
 (see below for the python code I used to build the discounting models)
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
-
 <div class="iframe-container iframe-container-for-wxh-500x350"
 style="-webkit-overflow-scrolling: touch; overflow: auto;">
 
