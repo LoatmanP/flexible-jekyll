@@ -107,4 +107,6 @@ fig.add_annotation(ax=0, ay=-75,
            arrowwidth=1
  
  #keep adding annotations until your timeline is complete
+ 
+ fig.show() #check out your interactive reusme!
 ```
