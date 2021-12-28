@@ -1,33 +1,24 @@
 ---
 layout: post
-title: How I Rest From Work
-date: 2017-09-12 13:32:20 +0300
+title: Predicting your Time Preferences with Streamlit
+date: 2021-12-28 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
----
-Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
+tags: [Delay Discounting, Behavioral Economics, Intertemporal Choice, Economic Patience]
+# Delay Discounting Rate Estimator for Time Preferences
 
-## Plaid ramps kitsch woke pork belly
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+Intertemporal choice behavior has been shown to be associated with several indicators of health and wealth. Individuals who are less patient (i.e., choosing rewards that are of lesser value but available sooner over rewards of more value but are available later) tend to have worse health and wealth outcomes compared to their more patient counterparts.
+
+One way to to assess patience is to give individuals a series of choices that involve rerwards that are distributed through time and then use choice-based modeling to estimate their intertemporal preferences. 
+
+This web app is designed to estimate discounting rates from choices using an Exponential or Hyperbolic Discounting Model to determine your intertemporal preferences and level of patience.
+
+Please select the model you wish to evaluate your intertemporal preferences, input your choices, and then click "Submit Your Choices" to determine how patient you are!
+
+(see below for the python code I used to build the discounting models)
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
-
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
-
->Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
-
-Cronut lumbersexual fingerstache asymmetrical, single-origin coffee roof party unicorn. Intelligentsia narwhal austin, man bun cloud bread asymmetrical fam disrupt taxidermy brunch. Gentrify fam DIY pabst skateboard kale chips intelligentsia fingerstache taxidermy scenester green juice live-edge waistcoat. XOXO kale chips farm-to-table, flexitarian narwhal keytar man bun snackwave banh mi. Semiotics pickled taiyaki cliche cold-pressed. Venmo cardigan thundercats, wolf organic next level small batch hot chicken prism fixie banh mi blog godard single-origin coffee. Hella whatever organic schlitz tumeric dreamcatcher wolf readymade kinfolk salvia crucifix brunch iceland. Literally meditation four loko trust fund. Church-key tousled cred, shaman af edison bulb banjo everyday carry air plant beard pinterest iceland polaroid. Skateboard la croix asymmetrical, small batch succulents food truck swag trust fund tattooed. Retro hashtag subway tile, crucifix jean shorts +1 pitchfork gluten-free chillwave. Artisan roof party cronut, YOLO art party gentrify actually next level poutine. Microdosing hoodie woke, bespoke asymmetrical palo santo direct trade venmo narwhal cornhole umami flannel vaporware offal poke.
-
-* Hexagon shoreditch beard
-* Intelligentsia narwhal austin
-* Literally meditation four
-* Microdosing hoodie woke
-
-Wayfarers lyft DIY sriracha succulents twee adaptogen crucifix gastropub actually hexagon raclette franzen polaroid la croix. Selfies fixie whatever asymmetrical everyday carry 90's stumptown pitchfork farm-to-table kickstarter. Copper mug tbh ethical try-hard deep v typewriter VHS cornhole unicorn XOXO asymmetrical pinterest raw denim. Skateboard small batch man bun polaroid neutra. Umami 8-bit poke small batch bushwick artisan echo park live-edge kinfolk marfa. Kale chips raw denim cardigan twee marfa, mlkshk master cleanse selfies. Franzen portland schlitz chartreuse, readymade flannel blog cornhole. Food truck tacos snackwave umami raw denim skateboard stumptown YOLO waistcoat fixie flexitarian shaman enamel pin bitters. Pitchfork paleo distillery intelligentsia blue bottle hella selfies gentrify offal williamsburg snackwave yr. Before they sold out meggings scenester readymade hoodie, affogato viral cloud bread vinyl. Thundercats man bun sriracha, neutra swag knausgaard jean shorts. Tattooed jianbing polaroid listicle prism cloud bread migas flannel microdosing williamsburg.
-
-Echo park try-hard irony tbh vegan pok pok. Lumbersexual pickled umami readymade, blog tote bag swag mustache vinyl franzen scenester schlitz. Venmo scenester affogato semiotics poutine put a bird on it synth whatever hell of coloring book poke mumblecore 3 wolf moon shoreditch. Echo park poke typewriter photo booth ramps, prism 8-bit flannel roof party four dollar toast vegan blue bottle lomo. Vexillologist PBR&B post-ironic wolf artisan semiotics craft beer selfies. Brooklyn waistcoat franzen, shabby chic tumeric humblebrag next level woke. Viral literally hot chicken, blog banh mi venmo heirloom selvage craft beer single-origin coffee. Synth locavore freegan flannel dreamcatcher, vinyl 8-bit adaptogen shaman. Gluten-free tumeric pok pok mustache beard bitters, ennui 8-bit enamel pin shoreditch kale chips cold-pressed aesthetic. Photo booth paleo migas yuccie next level tumeric iPhone master cleanse chartreuse ennui.
 
 <div class="iframe-container iframe-container-for-wxh-500x350"
 style="-webkit-overflow-scrolling: touch; overflow: auto;">
@@ -42,3 +33,129 @@ style="-webkit-overflow-scrolling: touch; overflow: auto;">
 </iframe>
 
 </div>
+
+## Building the Exponential Discounting Classifier
+
+### Import the required Python libraries
+
+```python
+import scipy.optimize
+import pandas as pd
+import numpy as np
+```
+
+### Initialize the parameters
+
+<span style="color:black"><b>discountRate</b> = The estimated daily discount rate of the decision-maker </span>
+
+<span style="color:black"><b>rho</b> = determinism parameter (all other variance other than discounting) </span>
+ 
+
+
+```python
+class ExponentialClassifier(object):
+   def __init__(self, discountRate=-5, rho=.01):
+   self.discountRate = discountRate
+   self.rho = rho
+```
+
+### Build a method to fit the parmaters
+
+<span style="color:black"><b>ranges</b> specifies the parameter grid ranges for the grid search </span>
+
+<span style="color:black"><b>scipy.brute</b> is used to optimize the parameters (fmin is used a local grid search and is performed at the end of the more coarse brute search) </span>
+
+<span style="color:black"><b>X</b> features of the choice items (smaller, sooner reward; larger, later rewird; smaller, sooner delay; larger, later delay </span>
+
+<span style="color:black"><b>y</b> decision-maker choices (0,1)  </span>
+
+<span style="color:black"><b>sse</b> sum of squared error (to be calculated in another method) </span>****
+
+```python
+def fit(self, X, y):
+   ranges = [[-8, .01, .1], [0, 1.1, .1]]
+   opt = scipy.optimize.brute(self.sse, ranges, args=(X, y,), finish=scipy.optimize.fmin)
+   self.discountRate = opt[0]
+   self.rho = opt[1]
+   return self
+```
+### Calculate the sum of squared error (SSE) to feed the fit method
+
+<span style="color:black"><b>params</b> params[0] delay discount rate, params[1] rho  </span>
+
+<span style="color:black"><b>cost</b> cost function </span>
+
+<span style="color:black"><b>sse</b> sum of squared error </span>
+
+<span style="color:black"><b>yhat</b> the predicted value of y </span>
+
+```python
+ def sse(self, params, X, y):
+     if (params[0] < -7.3) or (params[0] > -.01) or (params[1] <= 0.):
+         return 100000000000000000000000 #return something absurd
+     yhat = self.choice(X, params)
+     boundary = .00000001
+     yhat_clip = np.clip(yhat, boundary, 1 - boundary)
+     cost = -y * np.log(yhat_clip) - (1 - y) * np.log(1 - yhat_clip)
+     sse = np.sum(np.power(cost, 2))
+     return sse
+```
+
+### Evaluate decision-maker choices using the Exponential Discounting Model
+
+<span style="color:black"><b>ssVal</b> present (discounted) value of the smaller, sooner choice item (all smaller, sooner choice items are available today, so are not discounted  </span>
+
+<span style="color:black"><b>llVal</b> the present (discounted) value of the larger, more delayed choice item </span>
+
+<span style="color:black"><b>pLL</b> the probability of selecting the larger, more delayed choice item using a logistic scaling function </span>
+
+```python
+ def choice(self, X, params=[]):
+       # if params are NOT provided, use internally stored values
+       if len(params) == 0:
+           rho = self.rho
+           discRate = np.exp(self.discountRate)
+       # if params ARE provided, use them
+       else:
+           discRate = np.exp(params[0])
+           rho = params[1]
+       ssVal = X[:,1]
+       # ssVal = (X[:, 1] * np.exp((-discRate * X[:, 2])))
+       llVal = (X[:, 3] * np.exp((-discRate * X[:, 4])))
+
+       pLL = 1.0 / (1.0 + np.exp(-rho * (llVal - ssVal)))
+
+        return pLL
+  ```
+### Get the model's predicted probabilities for model performance evaluation
+
+<span style="color:black"><b>predict_proba</b> method to get the predicted probabilities of the model to evaluate model performance (same method as scikit-learn's predict_proba method) </span>
+
+```python
+def predict_proba(self, X, params=[]):
+    return self.choice(X, params)
+```
+
+### Build a method for absolute predictions (0,1)
+
+<span style="color:black"> same method as scikit-learn's predict method</span>
+
+```python
+def predict(self, X, params=[]):
+    return self.choice(X, params).round()
+ ```
+### Build a method for setting the parameters
+ 
+```python
+def set_params(self, discountRate=-5, rho=.01):
+   self.discountRate = discountRate
+   self.rho = rho
+   return self
+   ```
+   
+### Build a method for getting the estimated parameters
+```python
+def get_params(self, deep=True):
+   return {'discountRate': self.discountRate, 'rho': self.rho}
+```
+
