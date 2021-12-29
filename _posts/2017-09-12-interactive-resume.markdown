@@ -7,6 +7,8 @@ img: interactive_resume.png # Add image post (optional)
 tags: [Productivity, Resume, Interactive Resume, CV, Website] # add tag
 ---
 
+Below is a brief guide to create an interactive resume in Python to showcase on your website. Use this to display your work timeline and add to it as you see fit! 
+
 ## Import the required Python libraries
 
 ```python
