@@ -133,3 +133,14 @@ $ sudo pip install chart_studio
  chart_studio.tools.set_credentials_file(username=username, api_key=api_key)
  py.plot(dig, filename= 'fig',auto_open=True)
 ```
+### Step 4: Share your figure, send it as a link, embed it into your own website
+Your interactive resume will now have a link that you can share
+
+Embed that link into an iframe
+```html
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="the link to your figure here"></iframe>
+```
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~pal1234/3.embed"></iframe>
+
+
+
