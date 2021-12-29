@@ -129,6 +129,7 @@ $ sudo pip install chart_studio
 
 ```python
  import chart_studio
+ import chart_studio.plotly as py
  username = 'your user name'
  api_key = 'your API key'
  chart_studio.tools.set_credentials_file(username=username, api_key=api_key)
