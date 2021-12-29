@@ -133,7 +133,7 @@ $ sudo pip install chart_studio
  username = 'your user name'
  api_key = 'your API key'
  chart_studio.tools.set_credentials_file(username=username, api_key=api_key)
- py.plot(dig, filename= 'fig',auto_open=True)
+ py.plot(fig, filename= 'fig',auto_open=True)
 ```
 ### Step 4: Share your figure, send it as a link, embed it into your own website
 Your interactive resume will now have a link that you can share
