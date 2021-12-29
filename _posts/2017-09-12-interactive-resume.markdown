@@ -35,7 +35,7 @@ fig = px.timeline(df, x_start="Start", x_end="Finish", y="Resource", color="Star
 hover_name = "Task",  width=900,
                   color_discrete_sequence=px.colors.diverging.delta
                   , opacity=.7
-                  , title="<b>Interactive Resume: Work History</b>" #change the title of your interactive resume
+                  , title="Interactive Resume: Work History" #change the title of your interactive resume
                     ,hover_data={"Start": False,
                               "Finish": False,
                               "Task": False,
