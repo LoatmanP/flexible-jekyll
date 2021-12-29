@@ -116,3 +116,11 @@ fig.add_annotation(ax=0, ay=-75,
 
 ![signup]({{site.baseurl}}/assets/img/step_1_studio.png)
 
+### Step 2: Install Chart Studio
+```console
+pip install chart_sutdio
+```
+or 
+```console
+$ sudo pip install chart_studio
+```
