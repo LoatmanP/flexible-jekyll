@@ -141,7 +141,7 @@ Embed that link into an iframe
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="the link to your figure here"></iframe>
 ```
 Below is my interactive resume using the code above
-<iframe width="900" height="400" frameborder="0" scrolling="no" src="//plotly.com/~pal1234/3.embed"></iframe>
+<iframe width="900" height="600" frameborder="0" scrolling="no" src="//plotly.com/~pal1234/3.embed"></iframe>
 
 
 
