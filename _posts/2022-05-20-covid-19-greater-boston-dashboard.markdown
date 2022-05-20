@@ -11,17 +11,42 @@ tags: [Covid-19, Coronavirus, Boston, Suffolk, Middlesex, Wastewater] #add tag
 
 Covid-19 Dashboard for Middlesex and Suffolk counties in Massachusetts. 
 
-<div class="iframe-container iframe-container-for-wxh-500x350"
-style="-webkit-overflow-scrolling: touch; overflow: auto;">
-
-<iframe src="https://share.streamlit.io/loatmanp/covid_web_app/main/covid_web_app.py">
-
-  <p style="font-size: 110%;"><em><strong>IFRAME:</strong> There is
-  iframe content here but your browser version does not support
-  iframes.</em> Please update your browser to its current version 
-  and try again.</p>
-
-</iframe>
-
-</div>
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Streamlit for Geospatial</title>
+    <style type="text/css">
+      html {
+        overflow: auto;
+      }
+      html,
+      body,
+      div,
+      iframe {
+        margin: 0px;
+        padding: 0px;
+        height: 100%;
+        border: none;
+      }
+      iframe {
+        display: block;
+        width: 100%;
+        border: none;
+        overflow-y: auto;
+        overflow-x: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <iframe
+      src="https://share.streamlit.io/loatmanp/covid_web_app/main/covid_web_app.py"
+      frameborder="0"
+      marginheight="0"
+      marginwidth="0"
+      width="100%"
+      height="100%"
+      scrolling="auto"
+    >
+    </iframe>
+  </body>
+</html>
