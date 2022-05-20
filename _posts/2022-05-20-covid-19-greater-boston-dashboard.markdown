@@ -3,7 +3,7 @@ layout: post
 title: Boston Covid Wastewater, Cases, and Deaths Dashboard
 date: 2022-05-20 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: covid_waste_water.jpg # Add image post (optional)
+img: coronavirus_image_thin.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Covid-19, Coronavirus, Boston, Suffolk, Middlesex, Wastewater] #add tag
 ---
