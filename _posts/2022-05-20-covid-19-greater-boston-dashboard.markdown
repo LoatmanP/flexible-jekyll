@@ -10,18 +10,6 @@ tags: [Covid-19, Coronavirus, Boston, Suffolk, Middlesex, Wastewater] #add tag
 
 
 Covid-19 Dashboard for Middlesex and Suffolk counties in Massachusetts. 
----
-layout: post
-title: Boston Covid Dashboard
-date: 2022-05-20 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: coronavirus_image_thin.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [Covid-19, Coronavirus, Boston, Suffolk, Middlesex, Wastewater] #add tag
----
-
-
-Covid-19 Dashboard for Middlesex and Suffolk counties in Massachusetts. 
 
 <div class="iframe-container iframe-container-for-wxh-500x350"
 style="-webkit-overflow-scrolling: touch; overflow: auto;">
