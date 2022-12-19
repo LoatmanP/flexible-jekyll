@@ -22,7 +22,7 @@ Please select the model you wish to evaluate your intertemporal preferences, inp
 <div class="iframe-container iframe-container-for-wxh-500x350"
 style="-webkit-overflow-scrolling: touch; overflow: auto;">
 
-<iframe src="https://share.streamlit.io/loatmanp/discountwebapp/main/main.py">
+<iframe src="https://share.streamlit.io/loatmanp/discountwebapp/main/main.py?embedded=true">
 
   <p style="font-size: 110%;"><em><strong>IFRAME:</strong> There is
   iframe content here but your browser version does not support
