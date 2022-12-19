@@ -7,5 +7,4 @@ fig-caption: # Add figcaption (optional)
 tags: [CV, Resume, Biography] #add tag
 ---
 
-
-![Leetcode Stats](https://leetcard.loatmanp/lapor?ext=contest)
+[![LeetCode Stats](https://leetcode.card.workers.dev/loatmanp?theme=auto&font=baloo&extension=activity)](https://leetcode.com/loatmanp/)
