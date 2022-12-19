@@ -8,4 +8,4 @@ tags: [CV, Resume, Biography] #add tag
 ---
 
 
-![Leetcode Stats](https://leetcard.loatmanp.cool/lapor?ext=contest)
+![Leetcode Stats](https://leetcard.loatmanp/lapor?ext=contest)
