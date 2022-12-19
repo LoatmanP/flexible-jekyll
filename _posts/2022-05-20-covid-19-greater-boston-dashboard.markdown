@@ -14,7 +14,7 @@ Covid-19 Dashboard for Middlesex and Suffolk counties in Massachusetts.
 <div class="iframe-container iframe-container-for-wxh-500x350"
 style="-webkit-overflow-scrolling: touch; overflow: auto;">
 
-<iframe src="https://share.streamlit.io/loatmanp/covid_web_app/main/covid_web_app.py">
+<iframe src="https://share.streamlit.io/loatmanp/covid_web_app/main/covid_web_app.py?embedded=true">
 
   <p style="font-size: 110%;"><em><strong>IFRAME:</strong> There is
   iframe content here but your browser version does not support
