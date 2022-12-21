@@ -7,4 +7,10 @@ fig-caption: # Add figcaption (optional)
 tags: [CV, Resume, Biography] #add tag
 ---
 
+
+<div>
+    <a href="https://plotly.com/~pal1234/71/" target="_blank" title="newnew" style="display: block; text-align: center;"><img src="https://plotly.com/~pal1234/71.png" alt="newnew" style="max-width: 100%;width: 500px;"  width="500" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="pal1234:71" src="https://plotly.com/embed.js" async></script>
+</div>
+
 [![LeetCode Stats](https://leetcode.card.workers.dev/loatmanp?theme=auto&font=baloo&extension=activity)](https://leetcode.com/loatmanp/)
