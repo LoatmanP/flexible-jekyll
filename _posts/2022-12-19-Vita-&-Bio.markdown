@@ -6,8 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 fig-caption: # Add figcaption (optional)
 tags: [CV, Resume, Biography] #add tag
 ---
-
+# Interactive Resume
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~pal1234/71.embed"></iframe>
-
-
+# LeetCode Stats
 [![LeetCode Stats](https://leetcode.card.workers.dev/loatmanp?theme=auto&font=baloo&extension=activity)](https://leetcode.com/loatmanp/)
