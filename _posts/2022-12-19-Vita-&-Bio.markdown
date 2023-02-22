@@ -12,7 +12,7 @@ tags: [CV, Resume, Biography] #add tag
 # Interactive Resume
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~pal1234/71.embed"></iframe>
 
-#Publications and Presentations
+# Publications and Presentations
 Loatman, P.A. (2017, March). Individual Differences in Susceptibility to the Attraction, Compromise, and Similar Effect. Poster presentation at Eastern Psychological Association Conference, Boston, MA
 
 Loatman, P.A. (2017, March). Irrational Intertemporal Choice. Temporal Decision Making Symposium, Eastern Psychological Association Conference, Boston, MA
@@ -43,7 +43,7 @@ Whitlow, J.W., & Loatman, P. A. (2012, March). Negative Patterning is Harder tha
 
 Gaer, E., Loatman, P. A. (2010, May). Reasonable Person, Woman, or Victim in Sexual Harassment Law, Poster presentation at the Association for Psychological Science Conference, Boston, M.A.
 
-#Teaching Experience
+# Teaching Experience
 Instructor—Research and Writing in Psychology, Fall 2015
 Instructor—Analysis of Variance: Computer Applications, Summer 2017
 Instructor--Human Problem Solving, Winter 2017
