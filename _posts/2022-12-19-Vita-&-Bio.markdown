@@ -6,11 +6,12 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 fig-caption: # Add figcaption (optional)
 tags: [CV, Resume, Biography] #add tag
 ---
+# Resume
+![image](https://user-images.githubusercontent.com/48681293/223144446-d71eaedb-5329-46c3-b137-c091f67dcbd1.png)
 
 # LeetCode Stats
 [![LeetCode Stats](https://leetcode.card.workers.dev/loatmanp?theme=auto&font=baloo&extension=activity)](https://leetcode.com/loatmanp/)
-# Interactive Resume
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~pal1234/71.embed"></iframe>
+
 
 # Publications and Presentations
 Loatman, P.A. (2017, March). Individual Differences in Susceptibility to the Attraction, Compromise, and Similar Effect. Poster presentation at Eastern Psychological Association Conference, Boston, MA
@@ -56,3 +57,6 @@ Teaching Assistant—Introduction to Psychology, Summer, 2015
 Teaching Assistant—Biological Psychology, Spring 2015
 Teaching Assistant—Statistics in Psychology, Fall 2014
 Teaching Assistant—Cognition Processes, Spring 2012
+
+# Interactive Resume
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~pal1234/71.embed"></iframe>
