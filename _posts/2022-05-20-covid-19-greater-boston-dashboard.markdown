@@ -9,7 +9,7 @@ tags: [Covid-19, Coronavirus, Boston, Suffolk, Middlesex, Wastewater] #add tag
 ---
 
 
-Covid-19 Dashboard for Middlesex and Suffolk counties in Massachusetts. 
+Covid-19 Dashboard for Middlesex and Suffolk counties in Massachusetts, displaying Covid-19 wastewater levels, cases, and deaths within one view.
 
 <div class="iframe-container iframe-container-for-wxh-500x350"
 style="-webkit-overflow-scrolling: touch; overflow: auto;">
