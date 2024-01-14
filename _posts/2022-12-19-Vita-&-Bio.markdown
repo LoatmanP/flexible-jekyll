@@ -12,9 +12,6 @@ tags: [CV, Resume, Biography] #add tag
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/loatmanp?theme=dark&font=Exo)
 
-# DataCamp Profile 
-[https://www.datacamp.com/profile/loatmanp](https://www.datacamp.com/profile/loatmanp)
-
 # Publications and Presentations
 Loatman, P.A. (2017, March). Individual Differences in Susceptibility to the Attraction, Compromise, and Similar Effect. Poster presentation at Eastern Psychological Association Conference, Boston, MA
 
