@@ -10,7 +10,7 @@ tags: [CV, Resume, Biography] #add tag
 ![image](https://github.com/LoatmanP/flexible-jekyll/blob/master/assets/img/Resume_2024.png)
 
 # LeetCode Stats
-[![LeetCode Stats](https://leetcode.card.workers.dev/loatmanp?theme=auto&font=baloo&extension=activity)](https://leetcode.com/loatmanp/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/leetcode?site=cn)
 
 # DataCamp Profile 
 [https://www.datacamp.com/profile/loatmanp](https://www.datacamp.com/profile/loatmanp)
