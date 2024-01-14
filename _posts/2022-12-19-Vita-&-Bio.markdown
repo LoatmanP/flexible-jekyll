@@ -7,7 +7,7 @@ fig-caption: # Add figcaption (optional)
 tags: [CV, Resume, Biography] #add tag
 ---
 # Resume
-![image](https://user-images.githubusercontent.com/48681293/223144446-d71eaedb-5329-46c3-b137-c091f67dcbd1.png)
+![image](https://github.com/LoatmanP/flexible-jekyll/blob/master/assets/img/Resume_2024.png)
 
 # LeetCode Stats
 [![LeetCode Stats](https://leetcode.card.workers.dev/loatmanp?theme=auto&font=baloo&extension=activity)](https://leetcode.com/loatmanp/)
